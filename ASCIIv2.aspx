@@ -8,7 +8,7 @@
 </head>
 <body>
     <form id="form1" runat="server">
-    <table style="border:1px solid">
+    <table style="border:5px solid">
 		<%= strHtml %>
 	</table>
     </form>
