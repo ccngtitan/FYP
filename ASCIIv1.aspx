@@ -4,11 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>ASCII Table</title>
+    <title>ASCII Table Version 2</title>
 </head>
 <body>
     <form id="form1" runat="server">
-        <asp:Label ID="lbl1" runat="server" Text=""></asp:Label>
+        <asp:Label ID="lbl1" runat="server" style="color:red"></asp:Label>
     </form>
 </body>
 </html>
