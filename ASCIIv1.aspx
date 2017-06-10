@@ -10,5 +10,8 @@
     <form id="form1" runat="server">
         <asp:Label ID="lbl1" runat="server" style="color:red"></asp:Label>
     </form>
+    <form id="form2" runat="server">
+        <asp:Label ID="lbl2" runat="server" style="color:red"></asp:Label>
+    </form>
 </body>
 </html>
